@@ -1,0 +1,32 @@
+{
+    "title": "fluent pyton Notes",
+    "description": "fluent pyton笔记,fluent pyton学习笔记",
+    "language": "zh-hans",
+    "plugins": [
+        "github",
+        "prism",
+        "sitemap",
+        "toc2",
+        "expandable-chapters",
+        "page-toc-button",
+        "back-to-top-button"
+    ],
+    "pluginsConfig": {
+        "github": {
+          "url": "https://github.com/istommao/fluent-python-notes"
+        },
+        "sitemap": {
+            "hostname": "https://python.silentnotes.top/"
+        },
+        "prism": {
+            "css": [
+              "prismjs/themes/prism-okaidia.css"
+            ]
+        },
+        "toc2": {
+            "addClass": true,
+            "className": "toc"
+        },
+        "expandable-chapters":{}
+    }
+}
