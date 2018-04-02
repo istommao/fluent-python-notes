@@ -7,5 +7,6 @@
 * [第4章 文本和字节序列](strbyte.md)
 * [第7章 装饰器与闭包](decorator.md)
 * [第8章 对象引用与垃圾回收](objgc.md)
+* [第12章 继承的优缺点](inherit.md)
 * [类元编程](classmeta.md)
 * [问答](qa.md)
