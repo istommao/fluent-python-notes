@@ -8,5 +8,7 @@
 * [第7章 装饰器与闭包](decorator.md)
 * [第8章 对象引用与垃圾回收](objgc.md)
 * [第12章 继承的优缺点](inherit.md)
-* [类元编程](classmeta.md)
+* [第16章 协程](coroutines.md)
+* [第17章 使用future处理并发](future.md)
+* [第21章 类元编程](classmeta.md)
 * [问答](qa.md)
